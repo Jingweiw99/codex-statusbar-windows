@@ -1,5 +1,7 @@
 # CodexStatusbar Windows
 
+English | [简体中文](README.zh-CN.md)
+
 A Windows status overlay for the official Codex Desktop app. This is an independent derivative of [dongyue-19/codex-statusbar](https://github.com/dongyue-19/codex-statusbar), based on its v1.0.0-rc3 release.
 
 ## Changes in this derivative
